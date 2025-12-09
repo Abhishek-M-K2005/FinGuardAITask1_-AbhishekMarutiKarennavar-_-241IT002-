@@ -109,7 +109,7 @@ trans_amount                  0.046219
     2. transaction Month, category and transaction hour are shown to be the dominating factor whether a transaction in risk or not.
 
 # References:
-    * [ANDREW NG | Coursera](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/ )
-    * [SHAP DOCUMENTATION](https://youtu.be/L8_sVRhBDLU?si=PnCji7Rgn7wtDQBY)
-    * [EVALUATION METRICS](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)
+    * **[ANDREW NG | Coursera](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/)**
+    * **[SHAP DOCUMENTATION](https://youtu.be/L8_sVRhBDLU?si=PnCji7Rgn7wtDQBY)**
+    * **[EVALUATION METRICS](https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc)**
 
